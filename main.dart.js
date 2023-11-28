@@ -65783,7 +65783,7 @@ A.Hm.prototype={
 S(a){return A.ace(A.aeq(A.i5("Astronomy Picture of the Day",A.ay(a).p3.y,null)),A.afC(new A.a3t(),A.a9K(this.a.c),t.a))}}
 A.a3t.prototype={
 $2(a,b){var s,r,q,p,o,n,m,l,k=null,j=b.b
-if(j!=null){s=A.VC("images/stars-background.jpg",B.bz,1/0,1/0)
+if(j!=null){s=A.VC("assets/images/stars-background.jpg",B.bz,1/0,1/0)
 r=A.a([B.xC,B.iZ],t.t_)
 q=J.au(j)
 r=A.r6(k,A.afK("https://corsproxy.io/?"+A.h(q.j(j,"url")),B.bz,580,new A.a3s(),700),k,k,new A.dy(k,k,k,k,k,new A.o6(B.vq,B.vp,B.d4,r,k,k),B.aI),k,k,B.aX,k)
@@ -65837,7 +65837,7 @@ A.a3X.prototype={
 $2(a,b){var s,r,q=null,p=b.b
 if(p!=null){s=J.au(p)
 r=t.W
-return A.vy(B.O,A.a([A.VC("images/stars-background.jpg",B.bz,1/0,1/0),A.afZ(A.a([new A.hm(B.O,q,q,A.Rd(A.a([new A.hS(B.yz,A.Rd(A.a([B.hr,new A.tE(s.j(p,"date"),s.j(p,"image"),q),B.uF,A.i5(A.h(s.j(p,"caption"))+" on "+A.B3("MMMM d, yyyy").jc(A.ab9(s.j(p,"date"))),A.ay(a).p3.Q,B.bY)],r),B.dS),q)],r),B.dS),q)],r))],r),B.d_)}else{p=b.c
+return A.vy(B.O,A.a([A.VC("assets/images/stars-background.jpg",B.bz,1/0,1/0),A.afZ(A.a([new A.hm(B.O,q,q,A.Rd(A.a([new A.hS(B.yz,A.Rd(A.a([B.hr,new A.tE(s.j(p,"date"),s.j(p,"image"),q),B.uF,A.i5(A.h(s.j(p,"caption"))+" on "+A.B3("MMMM d, yyyy").jc(A.ab9(s.j(p,"date"))),A.ay(a).p3.Q,B.bY)],r),B.dS),q)],r),B.dS),q)],r))],r),B.d_)}else{p=b.c
 if(p!=null)return A.i5(A.h(p),q,q)}return B.iT},
 $S:418}
 A.Gu.prototype={
