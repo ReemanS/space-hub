@@ -2,7 +2,7 @@
 
 Space Hub is a platform that uses NASA's open-access APIs to display interesting space stuff!
 
-[Check it out](reemans.github.io)
+[Check it out](https://reemans.github.io)
 
 # Features
 
